@@ -38,7 +38,7 @@ nav:
     - Latest Update:
       - ClippyCommando/latest.md
     - Pre-Release:
-      - ClippyCommando/latest.md
+      - ClippyCommando/0.1.001.md
       - ClippyCommando/0.1.000.md
 
 
@@ -48,12 +48,10 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/danielharnden
-    - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/daniel-harnden-77745421b
     - icon: fontawesome/brands/youtube
       link: https://www.youtube.com/@Beanmeister12
     - icon: fontawesome/brands/bluesky
-      link: https://bsky.app/profile/danielharnden.bsky.social
+      link: https://bsky.app/profile/beanmeister12.bsky.social
 
 
   analytics:
